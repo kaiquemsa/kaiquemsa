@@ -7,9 +7,8 @@ style="width: 30px;"/>
 </a>
 </p>
 <br/>
-<a href="https://www.linkedin.com/in/kaique-silva-3929b2217/" rel="nofollow"><img src="https://camo.githubusercontent.com/29cb38cb1e2b14324e50fb5a1d1e5680741854d454fa2705be2e7432727776fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d41686d6164253230536177616c7165682d626c75653f6c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d626c7565266c6162656c436f6c6f723d626c61636b" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-Kaique%20Silva-blue?logo=Linkedin&amp;logoColor=blue&amp;labelColor=black" style="max-width: 100%;"></a>
-<a href="mailto:kaiquemeira@hotmail.com"><img src="https://camo.githubusercontent.com/ca44e2c01d2249c545d477fd72f9b969f835d13c8ab0631b28270853316d1ca6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486f746d61696c2d736177616c71615f6a6f40686f746d61696c2e636f6d2d626c75653f6c6f676f3d476d61696c266c6f676f436f6c6f723d626c7565266c6162656c436f6c6f723d626c61636b" alt="Mail" data-canonical-src="https://img.shields.io/badge/Hotmail-kaiquemeira@hotmail.com-blue?logo=Gmail&amp;logoColor=blue&amp;labelColor=black" style="max-width: 100%;"></a>
-
+<a href="https://www.linkedin.com/in/kaique-silva-3929b2217/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-Kaique%20Silva-blue?logo=Linkedin&amp;logoColor=blue&amp;labelColor=black" style="max-width: 100%;"></a>
+<a href="mailto:kaiquemeira@hotmail.com"><img alt="Mail" src="https://img.shields.io/badge/Hotmail-kaiquemeira@hotmail.com-blue?logo=Gmail&amp;logoColor=blue&amp;labelColor=black" style="max-width: 100%;"></a>
 
 ### <p align="center"> Hey you 👋,  I'am Kaique Silva </p> 
 <hr/>
