@@ -19,7 +19,7 @@ style="width: 30px;"/>
 
 <br/>
 📫 I take great pleasure in developing a wide range of projects, from web scripts to static websites, including e-commerce, landing pages, and all types of sites. Additionally, I have experience in performing integrations, backend development with Node.js, creating mobile applications using React Native, responsive web design, and database knowledge. I am committed to providing high-quality solutions that meet the needs of my clients and end-users.
-
+<br/><br/>
 Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
 
 💻 Languages and Tools: 🛠️ <br/>
