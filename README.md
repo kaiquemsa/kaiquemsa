@@ -11,7 +11,7 @@ style="width: 30px;"/>
 
 
 
-### <p align="center"> Hey you 👋,  I'am Kaique Silva </p> 
+### <p align="center"> Hey you 👋,  I'm Kaique Silva </p> 
 <hr/>
 
 <p align="center">
